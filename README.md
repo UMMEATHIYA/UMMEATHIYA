@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on AI/ML projects, computer vision applications, and cloud-edge solutions.  
 📫 **Email**: [ummeathiya2023@gmail.com] | **Portfolio**: www.ummeathiya.com | **Phone**: USA : +1 312-684-9667
 🎓 Pursuing **Master’s in Computer Science (AI)** at **DePaul University, Chicago, IL**.  
-🏆 **Graduate Teaching Assistant - Python** | **Research Assistant - OpenCV & ML**  
+🏆 **Graduate Teaching Assistant - Python** | **Research Assistant - Machine Learning & AI Innovation**  
 🌍 Previously worked as a **Robotics Edge Developer at IBM** in India.  
 🏡 Based in **Chicago, USA**.  
 
