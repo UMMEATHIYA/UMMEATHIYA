@@ -21,4 +21,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/UMMEATHIYA)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox&logoColor=white)](http://www.ummeathiya.com) 
 
-![snake gif](https://github.com/UMMEATHIYA/UMMEATHIYA/blob/output/github-contribution-grid-snake.gif)
