@@ -1,18 +1,60 @@
-# 👋 Hi, I’m @UMMEATHIYA  
-👀 I’m interested in AI, Machine Learning, Edge Computing, and IoT.  
-🌱 I’m currently learning Generative AI, OpenCV, Neural Networks, and Edge AI.  
-💞️ I’m looking to collaborate on AI/ML projects, computer vision applications, and cloud-edge solutions.  
-📫 **Email**: [ummeathiya2023@gmail.com] | **Portfolio**: www.ummeathiya.com | **Phone**: USA : +1 312-684-9667
-🎓 Pursuing **Master’s in Computer Science (AI)** at **DePaul University, Chicago, IL**.  
-🏆 **Graduate Teaching Assistant - Python** | **Research Assistant - Machine Learning & AI Innovation**  
-🌍 Previously worked as a **Robotics Edge Developer at IBM** in India.  
-🏡 Based in **Chicago, USA**.  
+# 👋 Hi, I’m @UMMEATHIYA
+
+## 🔹 **AI/ML Engineer | LLMs | Generative AI | NLP | Scalable ML Systems**
+
+### 📍 **Based in Chicago, USA**  
+Currently working as **AI/ML Engineer (Part-time)** at **DePaul University**, Chicago, USA. <br>
+Previously worked as **Robotics Edge Developer** at **IBM**, India.
 
 ---
 
-### 📌 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UMMEATHIYA&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMMEATHIYA&layout=compact&theme=tokyonight)  
+### 🔑 **What I Do**  
+I specialize in building intelligent systems that bridge **research** and **real-world impact**. With **4+ years** of experience, I focus on:
+- **Large Language Models (LLMs)**
+- **Generative AI & NLP**
+- **Scalable ML Systems**
+- **Cloud & Edge Computing**
+
+🚀 I’m passionate about **designing end-to-end AI solutions**, from model development to full-fledged deployment. I’ve worked on projects ranging from fine-tuning **transformer architectures** to deploying scalable **AWS-based pipelines**. My work is powered by tools like **LangChain**, **LlamaIndex**, **Pinecone**, and **Weaviate**.
+
+---
+
+### 🌱 **Currently Learning**  
+- **Generative AI**
+- **Neural Networks**
+- **OpenCV**
+- **Edge AI**
+
+### 💞️ **Collaborate With Me**  
+I’m eager to team up on **AI/ML projects**, **computer vision applications**, and **cloud-edge solutions**. Let’s connect if you're building the **future of AI**.
+
+---
+
+### ✅ **Core Strengths**
+- **LLMs** (Claude, GPT, LLaMa)
+- **Generative AI** & **NLP**
+- **ML Ops** (FastAPI, Docker, CI/CD, cloud deployments)
+- **End-to-End AI Product Development**
+- **Cross-Functional Collaboration** & **Innovation Mindset**
+
+---
+
+### 📫 **Contact Me**  
+- 📧 **Email**: [uathiya4@gmail.com](mailto:uathiya4@gmail.com)
+- 🌐 **Portfolio**: [www.ummeathiya.com](https://www.ummeathiya.com)
+- 📱 **Phone**: USA : +1 312-684-9667
+
+---
+
+### 🎓 **Education**  
+- Currently pursuing **Master’s in Computer Science (AI)** at **DePaul University**, Chicago, IL  
+- **Graduate Teaching Assistant** - **Python**  
+- **Research Assistant** - **Machine Learning & AI Innovation**
+
+---
+
+✨ **Let’s connect if you're passionate about making machines more intuitive and humans more empowered!** ✨
+
 
 ---
 
@@ -20,6 +62,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umme-athiya-1a8673172/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/UMMEATHIYA)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox&logoColor=white)](http://www.ummeathiya.com) 
+
+---
 
 ### 🛠️ Languages & Tools
 <p>
