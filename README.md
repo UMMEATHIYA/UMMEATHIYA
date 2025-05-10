@@ -4,7 +4,7 @@
 
 ### 📍 **Based in Chicago, USA**  
 Currently working as **AI/ML Engineer (Part-time)** at **DePaul University**, Chicago, USA. <br>
-Previously worked as **Robotics Edge Developer** at **IBM**, India.
+Previously worked as **AI/ML Engineer** at **IBM**, India.
 
 ---
 
