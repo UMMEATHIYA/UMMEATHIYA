@@ -9,7 +9,7 @@ Previously worked as **AI/ML Engineer** at **IBM**, India.
 ---
 
 ### 🔑 **What I Do**  
-I specialize in building intelligent systems that bridge **research** and **real-world impact**. With **4+ years** of experience, I focus on:
+I specialize in building intelligent systems that bridge **research** and **real-world impact**. With **6+ years** of experience, I focus on:
 - **Large Language Models (LLMs)**
 - **Generative AI & NLP**
 - **Scalable ML Systems**
