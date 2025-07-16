@@ -259,9 +259,6 @@ I'm passionate about building **end-to-end AI systems** — from data ingestion 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmmeAthiya&layout=compact&theme=radical)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=UmmeAthiya&theme=radical)
-
 <!-- Activity Graph -->
 [![Umme's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UmmeAthiya&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
