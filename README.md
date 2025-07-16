@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Cooper+Black&size=46&pause=50&color=BF00FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Umme;💻+Welcome+to+my+GitHub+profile!;✨+Let’s+build+AI+that+empowers+humans!+✨)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cooper+Black&size=36&pause=50&color=BF00FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Umme;💻+Welcome+to+my+GitHub+profile!;✨+Let’s+build+AI+that+empowers+humans!+✨)
 
 
 
@@ -235,10 +235,12 @@ I'm passionate about building **end-to-end AI systems** — from data ingestion 
 ---
 
 ### 📫 **Contact Me**
-- 📧 [uathiya4@gmail.com](mailto:uathiya4@gmail.com)
-- 🌐 [ummeathiya.com](https://ummeathiya.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/umme-athiya-1a8673172)
-- 🐙 [GitHub](https://github.com/UMMEATHIYA)
+
+[![Email](https://img.shields.io/badge/Email-uathiya4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uathiya4@gmail.com)
+[![Website](https://img.shields.io/badge/Website-ummeathiya.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ummeathiya.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ummeathiya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umme-athiya-1a8673172)
+[![GitHub](https://img.shields.io/badge/GitHub-UMMEATHIYA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UMMEATHIYA)
+
 
 ---
 
