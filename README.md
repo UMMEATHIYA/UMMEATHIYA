@@ -244,6 +244,12 @@ I'm passionate about building **end-to-end AI systems** — from data ingestion 
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/UMMEATHIYA/UMMEATHIYA/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📈 GitHub Stats
 
 <!-- GitHub Stats -->
