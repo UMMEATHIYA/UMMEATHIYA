@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Umme;💻+Welcome+to+my+GitHub+profile!;✨+Let’s+build+AI+that+empowers+humans!+✨" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cooper+Black&size=46&pause=50&color=BF00FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Umme;💻+Welcome+to+my+GitHub+profile!;✨+Let’s+build+AI+that+empowers+humans!+✨)
 
 
 
