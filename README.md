@@ -13,7 +13,7 @@
 ---
 
 ### 🔑 **Professional Summary**  
-As an AI/ML Engineer with 4+ years of hands-on experience, I specialize in:
+As an AI/ML Engineer with 5+ years of hands-on experience, I specialize in:
 
 - 🤖 Building and deploying **LLM-powered applications**
 - 🛠️ Designing **scalable ML pipelines** and infrastructure
