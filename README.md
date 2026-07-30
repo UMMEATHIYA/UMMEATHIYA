@@ -13,7 +13,7 @@
 ---
 
 ### 🔑 **Professional Summary**  
-As an AI/ML Engineer with 5+ years of hands-on experience, I specialize in:
+As an AI/ML Engineer with 7+ years of hands-on experience, I specialize in:
 
 - 🤖 Building and deploying **LLM-powered applications**
 - 🛠️ Designing **scalable ML pipelines** and infrastructure
@@ -28,6 +28,30 @@ I'm passionate about building **end-to-end AI systems** — from data ingestion 
 ---
 
 ### 💼 **Experience Highlights**
+
+### 💙 CVS Health (Aetna) — Conversational AI Full Stack Engineer
+*Jan 2026 – Present*
+
+- 🤖 Design and develop enterprise conversational AI applications for healthcare using Large Language Models (LLMs) and agentic AI workflows.
+- 🧠 Build AI agents with IBM watsonx Orchestrate by integrating enterprise APIs, reusable tools, and orchestration workflows.
+- 🔗 Develop scalable backend services and REST APIs that power AI-driven business processes.
+- 🩺 Build intelligent solutions for provider and member support, enabling automated benefit retrieval and healthcare assistance.
+- ⚡ Improve AI response quality through prompt engineering, business rule implementation, and retrieval optimization.
+- ☁️ Collaborate with product managers, UX designers, backend engineers, and business stakeholders to deliver production-ready AI solutions.
+- 🚀 Contribute across the full software development lifecycle, from architecture and implementation to testing, deployment, and production support.
+
+---
+
+### 🚀 ImpacterAI — AI/ML Engineer
+*Jul 2025 - Jan 2026*
+- 🤖 Developed multi-agent AI applications using Azure OpenAI, LangChain, FastAPI, and Pinecone.
+- 🧠 Built Retrieval-Augmented Generation (RAG) pipelines with semantic search and vector databases.
+- 📅 Integrated Calendly and Google Calendar to automate scheduling through AI agents.
+- ✍️ Built DocuSign integrations for AI-driven document generation and signing workflows.
+- 💳 Integrated Stripe APIs to enable payment processing within conversational AI applications.
+- ⚙️ Designed scalable backend APIs and modular AI services for production deployments.
+- ☁️ Deployed cloud-native AI applications using Docker, Azure, and modern CI/CD practices.
+
 
 🧪 **DePaul University, Chicago — AI/ML Research & Teaching Assistant**  
 *Jan 2024 – June 2025*
